@@ -1,6 +1,5 @@
 # File Organizer
 
-![File Organizer](https://your_image_link_here)
 
 ## Description
 The File Organizer is a Python script designed to help you manage and organize various types of files by grouping them based on their extensions. It automatically creates subdirectories for different file formats such as photos, PDFs, documents, executables, videos, and others, and moves the corresponding files into these subdirectories.
